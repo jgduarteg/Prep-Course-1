@@ -28,6 +28,8 @@ En este [link](https://github.com/soyHenry/Prep-Course/tree/main/) vas a encontr
 
 ```bash
 npm install
+npm install
+
 ```
 
 Esto instalará todas las dependencias necesarias (lo tenés que hacer una sóla vez), una vez terminado y cada vez que quieras ver cuantos tests pasaste ejecutá:
